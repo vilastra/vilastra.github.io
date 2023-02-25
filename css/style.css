@@ -469,6 +469,11 @@ h6,
     font-size: calc(2.125rem + 10.5vw);
   }
 }
+@media (max-width: 800px) {
+  .display-1 {
+    font-size: calc(1.125rem + 10.5vw);
+  }
+}
 
 .display-2 {
   font-size: 5.5rem;
@@ -11177,4 +11182,11 @@ h6,
   margin: 0;
   padding: 0;
   list-style-type: none;
+}
+
+.esp{
+  display: block;
+}
+.eng{
+  display: none;
 }
