@@ -11190,3 +11190,12 @@ h6,
 .eng{
   display: none;
 }
+
+
+/* CUSTOM */
+
+.portfolio-container img {
+  width: 350px;
+  height: 262px;
+  object-fit: cover;
+}
