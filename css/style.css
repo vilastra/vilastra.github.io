@@ -11199,3 +11199,15 @@ h6,
   height: 262px;
   object-fit: cover;
 }
+.portfolio-btn{
+  text-align: center;
+}
+.portfolio-btn svg{
+  max-width: 50px;
+  padding-bottom: 10px;
+}
+.portfolio-btn i{
+  color: #FFF;
+  padding-left: 10px;
+  padding-right: 10px;
+}
